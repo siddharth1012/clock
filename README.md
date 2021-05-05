@@ -1,2 +1,2 @@
-# clock
-It is a repository on making of a clock website. 
+# clock 
+This simple javascript code can make an analog clock with html file.
